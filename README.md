@@ -1,1 +1,1 @@
-# AlgoArena-PS
+# AlgoArena-Problem-Sets
